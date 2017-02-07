@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/247862/ed6e6b0950464fe5ad54308af1c59d5f
+bundleId: https://api.rpubs.com/api/v1/document/247862/ed6e6b0950464fe5ad54308af1c59d5f
+url: http://rpubs.com/irJERAD/247862
+when: 1486451059.43481

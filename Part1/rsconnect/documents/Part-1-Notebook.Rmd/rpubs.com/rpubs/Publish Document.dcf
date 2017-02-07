@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/248091/747509b6c8174d7dbeb9dbc3aa3961d1
+bundleId: https://api.rpubs.com/api/v1/document/248091/747509b6c8174d7dbeb9dbc3aa3961d1
+url: http://rpubs.com/irJERAD/248091/edit
+when: 1486504495.50514
